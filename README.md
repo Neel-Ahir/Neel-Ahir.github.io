@@ -1,2 +1,0 @@
-# neelahir.github.io
-MyBiography
