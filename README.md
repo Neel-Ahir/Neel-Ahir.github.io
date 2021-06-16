@@ -1,2 +1,2 @@
-# neelahir.github.io
+# Neel-Ahir.github.io
 MyBiography
